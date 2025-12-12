@@ -1,0 +1,7 @@
+{
+  "name": "AfroLearnAI",
+  "description": "A voice-first, multilingual interactive learning assistant for African learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
